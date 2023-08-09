@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=VT323&display=swap');
+
+
+.table{
+    display: inline-block;
+    align-items: center;
+    width: 350px;
+    height: 350px;
+    padding: 1em;
+    margin: 0 550px;
+    /* font-family: VT323; */
+    border: solid #5C0261;
+}
